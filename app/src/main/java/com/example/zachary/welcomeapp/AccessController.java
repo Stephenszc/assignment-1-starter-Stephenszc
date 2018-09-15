@@ -4,7 +4,7 @@
     This activity is the AccessController, started by the MainActivity in order to essentially
     prompt the user for an access code, and then have them submit that code. If the code matches
     "1234", then the WelcomeText will change to be Unlocked in the MainActivity
-    
+
  */
 
 package com.example.zachary.welcomeapp;
