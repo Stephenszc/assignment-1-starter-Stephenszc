@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WelcomeApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_to_the_app_the_app_is_locked">Welcome to the App!   The App is LOCKED!</string>
+    <string name="title_activity_access_controller">AccessController</string>
+    <string name="welcome_to_the_app_the_app_is_locked_up">Welcome to the App!   The app is LOCKED!</string>
+</resources>
